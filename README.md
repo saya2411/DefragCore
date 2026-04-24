@@ -73,7 +73,7 @@ Continuous work leads to mental fatigue and burnout. Sometimes you just need a 2
 If you enjoy Neural Defrag, consider sharing it with your team!
 
 ## 📄 License
-MIT License — See LICENSE for details.
+This project is licensed under the MIT License.
 
 ---
 **Developed using Google AI Studio Build.**
