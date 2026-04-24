@@ -1,4 +1,4 @@
-# DefragCore
+# 🧬 DefragCore
 
 **A stress-relief cyber-game that lives on your screen as a high-tech desktop overlay.**
 
@@ -13,7 +13,7 @@ People work continuously and get stressed. **DefragCore** gives you a quick, sat
 *   **Minimalist HUD** — Sleek cyber-deck interface inspired by modern sci-fi operating systems.
 *   **Defragmentation Mechanics**:
     *   **Calibrate**: Warm up your reflexes in the initial stress-free calibration phase.
-    *   **Neural Link**: High-stakes accuracy mode where every miss drains your system integrity.
+    *   **Defrag Link**: High-stakes accuracy mode where every miss drains your system integrity.
     *   **Dynamic Fragments**: Combat evolving geometric data nodes that pulse and shift.
 *   **Audio immersion**: Custom synthetic soundscape with real-time feedback and global mute control.
 *   **Lightweight** — Pure React + Web Audio API, no heavy engines or external assets required.
@@ -67,10 +67,10 @@ npm run build
 ---
 
 ## 💡 Why?
-Continuous work leads to mental fatigue and burnout. Sometimes you just need a 2-minute "brain-wipe" doing something repetitive and visually satisfying. **Neural Defrag** is always one click away — no installation, no distractions, just focus.
+Continuous work leads to mental fatigue and burnout. Sometimes you just need a 2-minute "brain-wipe" doing something repetitive and visually satisfying. **DefragCore** is always one click away — no installation, no distractions, just focus.
 
 ## ☕ Support
-If you enjoy Neural Defrag, consider sharing it with your team!
+If you enjoy DefragCore, consider sharing it with your team!
 
 ## 📄 License
 This project is licensed under the MIT License.

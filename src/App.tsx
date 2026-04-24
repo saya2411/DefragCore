@@ -662,7 +662,7 @@ export default function App() {
                   </button>
 
                 </div>
-                <div className="mt-16 text-white/20 font-mono text-[10px] tracking-[0.1em] uppercase">SYSTEM STATUS: NEURAL_LINK_ESTABLISHED // TARGETING_OS_V4.2</div>
+                <div className="mt-16 text-white/20 font-mono text-[10px] tracking-[0.1em] uppercase">SYSTEM STATUS: DEFRAG_LINK_ESTABLISHED // TARGETING_OS_V4.2</div>
               </motion.div>
             </motion.div>
           )}
@@ -706,7 +706,7 @@ export default function App() {
 
         {/* System Message Overlay */}
         <div className="absolute bottom-6 left-6 font-mono text-[9px] text-white/30 z-30 tracking-widest pointer-events-none uppercase">
-           NEURAL_LINK: OK // LATENCY: 24MS // BUFFER: 1024KB
+           DEFRAG_LINK: OK // LATENCY: 24MS // BUFFER: 1024KB
         </div>
       </div>
     </div>
