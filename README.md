@@ -1,4 +1,4 @@
-# 🧬 DefragCore
+# DefragCore
 
 **A stress-relief cyber-game that lives on your screen as a high-tech desktop overlay.**
 
