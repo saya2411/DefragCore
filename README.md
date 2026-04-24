@@ -1,8 +1,8 @@
-# 🧬 Neural Defrag
+# 🧬 DefragCore
 
 **A stress-relief cyber-game that lives on your screen as a high-tech desktop overlay.**
 
-People work continuously and get stressed. **Neural Defrag** gives you a quick, satisfying sensory break — right on your desktop. Neutralize data fragments and optimize your focus with just one click.
+People work continuously and get stressed. **DefragCore** gives you a quick, satisfying sensory break — right on your desktop. Neutralize data fragments and optimize your focus with just one click.
 
 **[ Web App ] [ MIT License ] [ No API Required ]**
 
@@ -45,8 +45,8 @@ This is a standard Vite project. You can deploy it for free in 30 seconds:
 ### 🔨 Run from Source
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/neural-defrag.git
-cd neural-defrag
+git clone https://github.com/yourusername/defrag-core.git
+cd defrag-core
 
 # Install dependencies
 npm install
